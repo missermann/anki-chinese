@@ -9,5 +9,4 @@ For reading, besides children’s book, I enjoy mangas. I like about mangas that
 Please post a issue for mistakes in the decks and new interesting learning material! 
 
 to-do-list:
-* finish pronunciation deck
 * add more audio and extra cards to book5
